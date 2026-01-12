@@ -12,4 +12,4 @@ for i in range(1):
 # Display books
 print("\n--- Library Books ---")
 for b in library:
-    print(f"Book ID: {b[0]}, Title: {b[1]}")
+    print(f"ID: {b[0]}, Title: {b[1]}, Author: {b[2]}, Year: {b[3]}")
